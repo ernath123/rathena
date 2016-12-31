@@ -28,3 +28,11 @@
 40029,475,99	// Red_Cat_Ears_Beret
 40030,479,90	// Rojak_Card
 40031,473,100	// Castle_Box
+40032,1,100	// Akatsuki_Hat
+40033,1,100	// Dark_Lord_Helm
+40034,1,100	// Luxury_Hat
+40035,1,100	// RojakRO_Blue_Tie
+40037,1,100	// RojakRO_Black_Tie
+40038,1,100	// RojakRO_Blue_Glasses
+40039,1,100	// RojakRO_Green_Glasses
+40040,1,100	// RojakRO_Purple_Glasses

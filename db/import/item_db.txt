@@ -94,3 +94,12 @@
 40029,Red_Cat_Ears_Beret,Red Cat Ears Beret,4,10,,,,,,4,0xFFFFFFFF,63,2,256,,,1,1546,{ bonus bAllStats,3; },{},{}
 40030,Rojak_Card,Rojak Card,6,20,,10,,,,,,,,769,,,,,{ bonus bAllStats,5; },{},{}
 40031,Castle_Box,Castle Box,18,20,,10,,,,,0xFFFFFFFF,7,2,,,,,,{ getitem 607,100; getitem 610,100; getitem 678,100; getitem 12103,100; },{},{}
+40032,Akatsuki_Hat,Akatsuki_Hat,4,0,,,,5,,4,0xFFFFFFFF,63,2,256,,,1,1547,{ bonus bMdef,10; bonus bStr,5; bonus bAgi,10; bonus bVit,10; bonus bInt,5; bonus bLuk,20; },{},{}
+40033,Dark_Lord_Helm,Dark Lord Helm,4,0,,,,5,,4,0xFFFFFFFF,63,2,256,,,1,1548,{ bonus bMdef,10; bonus bStr,5; bonus bAgi,10; bonus bVit,10; bonus bInt,5; bonus bLuk,20; },{},{}
+40034,Luxury_Hat,Luxury Hat,4,0,,,,5,,4,0xFFFFFFFF,63,2,256,,,1,1549,{ bonus bMdef,10; bonus bStr,5; bonus bAgi,10; bonus bVit,10; bonus bInt,5; bonus bLuk,20; },{},{}
+40035,RojakRO_Blue_Tie,RojakRO Blue Tie,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,295,{ bonus bStr,1; },{},{}
+40036,RojakRO_White_Tie,RojakRO White Tie,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,513,{ bonus bInt,1; },{},{}
+40037,RojakRO_Black_Tie,RojakRO Black Tie,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,543,{ bonus bDex,1; },{},{}
+40038,RojakRO_Blue_Glasses,RojakRO Blue Glasses,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,586,{ bonus bAgi,1; },{},{}
+40039,RojakRO_Green_Glasses,RojakRO Green Glasses,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,612,{ bonus bVit,1; },{},{}
+40040,RojakRO_Purple_Glasses,RojakRO Purple Glasses,4,0,,,,1,,1,0xFFFFFFFF,63,2,512,,,0,833,{ bonus bLuk,1; },{},{}
