@@ -1899,7 +1899,7 @@
 4262,Evil_Cloud_Hermit_Card,Cloud Hermit Card,6,20,,10,,,,,,,,136,,,,,{ bonus3 bAddMonsterDropItem,12029,RC_Plant,100; },{},{}
 4263,Incant_Samurai_Card,Samurai Spector Card,6,20,,10,,,,,,,,2,,,,,{ bonus bIgnoreDefClass,Class_Normal; bonus bHPrecovRate,-100; bonus2 bHPLossRate,666,10000; },{},{ if((Hp <= 999) && !getmapflag(strcharinfo(3),mf_pvp) && !getmapflag(strcharinfo(3),mf_pvp_noparty) && !getmapflag(strcharinfo(3),mf_pvp_noguild)) { heal (1-Hp),0; } else { heal -999,0; } }
 4264,Wind_Ghost_Card,Wind Ghost Card,6,20,,10,,,,,,,,136,,,,,{ bonus3 bAutoSpell,"WZ_JUPITEL",3+7*(getskilllv("WZ_JUPITEL")==10),20; },{},{}
-4265,Li_Me_Mang_Ryang_Card,Jing Guai Card,6,20,,10,,,,,,,,136,,,,,{ bonus3 bAddMonsterDropItem,12033,RC_Angel,100; },{},{}
+4265,Li_Me_Mang_Ryang_Card,Jing Guai Card,6,20,,10,,,,,,,,136,,,,,{},{},{}
 4266,Eclipse_Card,Eclipse Card,6,20,,10,,,,,,,,4,,,,,{ bonus bVit,1; },{},{}
 4267,Explosion_Card,Explosion Card,6,20,,10,,,,,,,,64,,,,,{ bonus2 bSubRace,RC_Dragon,-20; bonus2 bExpAddRace,RC_Dragon,10; },{},{}
 4268,Injustice_Card,Injustice Card,6,20,,10,,,,,,,,2,,,,,{ bonus3 bAutoSpell,"AS_SONICBLOW",1,50; },{},{}
