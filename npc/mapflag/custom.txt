@@ -28,3 +28,6 @@ guild_vs2	mapflag	nopenalty
 guild_vs2	mapflag	novending
 guild_vs2	mapflag	nobranch
 guild_vs2	mapflag	nocommand	4
+
+//prt_gld
+prt_gld	mapflag	nobranch
