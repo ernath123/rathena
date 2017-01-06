@@ -5,9 +5,6 @@
 
 1166:2527,{ bonus2 bAddRace,RC_Dragon,5; }
 1420:2115,{ bonus3 bAutoSpellWhenHit,"HP_ASSUMPTIO",2,5; }
-1420:2133,{ bonus2 bAddClass,Class_All,4; bonus bDef,2; }
-1421:2133,{ bonus2 bAddClass,Class_All,4; bonus bDef,2; }
-1422:2133,{ bonus2 bAddClass,Class_All,4; bonus bDef,2; }
 1428:2115,{ bonus3 bAutoSpellWhenHit,"HP_ASSUMPTIO",2,5; }
 1472:2677,{ bonus bMatkRate,6; bonus bDex,2; bonus bCastrate,-getequiprefinerycnt(EQI_HEAD_TOP); }
 1472:2711,{ bonus bMatkRate,6; bonus bDex,2; bonus bCastrate,-getequiprefinerycnt(EQI_HAND_R); }
