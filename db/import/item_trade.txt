@@ -36,3 +36,15 @@
 40038,1,100	// RojakRO_Blue_Glasses
 40039,1,100	// RojakRO_Green_Glasses
 40040,1,100	// RojakRO_Purple_Glasses
+40041,1,100	// Boots_of_Guidance
+40042,1,100	// Cloth_of_Brilliance
+40043,1,100	// Mithril_Armor
+40044,1,100	// Grand_Gaiters
+40045,1,100	// Rally_Plete_Armor
+40046,1,100	// Hero_Plate_Armor
+40047,1,100	// Hercule_Belt
+40048,1,100	// Master_Exile_Card
+40049,1,100	// Endless_Faith_Card
+40050,1,100	// Vengeful_Envy_Card
+40051,1,100	// Blood_Lust_Card
+40052,1,100	// Obsessed_Greed_Card

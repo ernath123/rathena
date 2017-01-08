@@ -1,5 +1,5 @@
-// Item Combos Database
-//
-// Structure of Database:
-// ID:ID:ID:ID,{ Script }
-
+40041:40042,{ bonus bMaxHPrate,30; bonus bSPrecovRate,15; bonus bMdef,10; }
+40041:40043,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
+40041:40044,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
+40041:40045,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
+40041:40046,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
