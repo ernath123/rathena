@@ -126,27 +126,21 @@ pvp_n_2-2,0,0,0,0	monster	Mistress	1059,3,60000,66000
 pvp_n_2-2,0,0,0,0	monster	Moonlight	1150,1,60000,66000
 pvp_n_3-2,0,0,0,0	monster	Mistress	1059,1,60000,66000
 pvp_n_3-2,0,0,0,0	monster	Moonlight	1150,2,60000,66000
-pvp_n_3-2,0,0,0,0	monster	Maya	1147,1,60000,66000
 pvp_n_4-2,0,0,0,0	monster	Eddga	1115,1,60000,66000
 pvp_n_4-2,0,0,0,0	monster	Mistress	1059,1,60000,66000
 pvp_n_4-2,0,0,0,0	monster	Moonlight	1150,1,60000,66000
-pvp_n_4-2,0,0,0,0	monster	Maya	1147,1,60000,66000
 pvp_n_5-2,0,0,0,0	monster	Eddga	1115,1,60000,66000
 pvp_n_5-2,0,0,0,0	monster	Mistress	1059,2,60000,66000
 pvp_n_5-2,0,0,0,0	monster	Moonlight	1150,1,60000,66000
-pvp_n_5-2,0,0,0,0	monster	Maya	1147,2,60000,66000
 pvp_n_6-2,0,0,0,0	monster	Eddga	1115,2,60000,66000
 pvp_n_6-2,0,0,0,0	monster	Mistress	1059,3,60000,66000
 pvp_n_6-2,0,0,0,0	monster	Moonlight	1150,1,60000,66000
-pvp_n_6-2,0,0,0,0	monster	Maya	1147,2,60000,66000
 pvp_n_7-2,0,0,0,0	monster	Eddga	1115,3,60000,66000
 pvp_n_7-2,0,0,0,0	monster	Mistress	1059,3,60000,66000
 pvp_n_7-2,0,0,0,0	monster	Moonlight	1150,2,60000,66000
-pvp_n_7-2,0,0,0,0	monster	Maya	1147,2,60000,66000
 pvp_n_8-2,0,0,0,0	monster	Eddga	1115,3,60000,66000
 pvp_n_8-2,0,0,0,0	monster	Mistress	1059,3,60000,66000
 pvp_n_8-2,0,0,0,0	monster	Moonlight	1150,3,60000,66000
-pvp_n_8-2,0,0,0,0	monster	Maya	1147,3,60000,66000
 
 // Beta
 pvp_n_1-3,0,0,0,0	monster	Phreeoni	1159,3,60000,66000
