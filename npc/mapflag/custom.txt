@@ -29,6 +29,3 @@ guild_vs2	mapflag	novending
 guild_vs2	mapflag	nobranch
 guild_vs2	mapflag	nocommand	4
 guild_vs3	mapflag	restricted	10
-
-//prt_gld
-prt_gld	mapflag	nobranch
