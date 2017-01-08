@@ -115,3 +115,8 @@
 40050,Vengeful_Envy_Card,Vengeful Envy Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bAgi,30; bonus bLuk,5; bonus bVit,5; bonus bMaxHP,15000; },{},{}
 40051,Blood_Lust_Card,Blood Lust Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bAgi,30; bonus bLuk,5; bonus bVit,5; bonus bMaxHP,15000; },{},{}
 40052,Obsessed_Greed_Card,Obsessed Greed Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bVit,25; bonus bInt,15; bonus bMaxHP,15000; },{},{}
+40053,Rojak_Badge,Rojak Badge,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
+40054,Silver_Coin,Rojak Silver Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
+40055,Gold_Coin,Rojak Gold Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
+40056,White_Gold_Coin,Rojak Platinum Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
+40057,Mithril_Coin,Rojak Mithril Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
