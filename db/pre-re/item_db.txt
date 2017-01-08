@@ -1335,7 +1335,7 @@
 2420,Angel's_Arrival,Angel's Reincarnation,4,10000,,300,,2,,1,0x00000001,7,2,64,,25,1,0,{ bonus bMaxHP,100; },{},{}
 2421,Valkyrie_Shoes,Valkyrian Shoes,4,0,,500,,4,,1,0xFFFFFFFE,2,2,64,,1,1,0,{ bonus bUnbreakableShoes,0; if(BaseClass==Job_Mage||BaseClass==Job_Archer||BaseClass==Job_Acolyte) bonus bMaxHP,(BaseLevel*5); else if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief) bonus bMaxSP,(JobLevel*2); },{},{}
 2422,High_Fashion_Sandals,High Fashion Sandals,4,24000,,200,,2,,1,0x00818314,7,2,64,,40,1,0,{ bonus bMdef,10; },{},{}
-2423,Variant_Shoes,Variant Shoes,4,20,,500,,3,,0,0xFFFFFFFE,2,2,64,,85,1,0,{ bonus bMaxHPRate,20-getrefine(); bonus bMaxSPRate,20-getrefine(); bonus bDef,getrefine()/2; },{},{}
+2423,Variant_Shoes,Variant Shoes,4,20,,500,,3,,0,0xFFFFFFFE,2,2,64,,85,1,0,{ bonus bMaxHPRate,10-getrefine(); bonus bMaxSPRate,10-getrefine(); bonus bDef,getrefine()/2; },{},{}
 2424,Tidal_Shoes,Tidal Shoes,4,20,,300,,3,,1,0xFFFFFFFE,2,2,64,,55,1,0,{ bonus2 bSubEle,Ele_Water,5; },{},{}
 2425,Black_Leather_Boots,Black Leather Boots,4,20,,500,,4,,0,0xFFFFFFFE,2,2,64,,55,1,0,{ bonus bAgi,1; if(getrefine()>=9) bonus bAgi,2; },{},{}
 2426,Shadow_Walk,Shadow Walk,4,20,,2000,,0,,0,0xFFFFFFFE,2,2,64,,75,1,0,{ bonus bMdef,10; if(getskilllv("AS_CLOAKING")<2){ bonus5 bAutoSpellWhenHit,"AS_CLOAKING",2,100,BF_MAGIC,0; } else bonus5 bAutoSpellWhenHit,"AS_CLOAKING",getskilllv("AS_CLOAKING"),100,BF_MAGIC,0; },{},{}
