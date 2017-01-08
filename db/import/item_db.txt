@@ -113,13 +113,21 @@
 40048,Master_Exile_Card,Master Exile Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bDex,30; bonus bLuk,10; bonus bMaxHP,15000; },{},{}
 40049,Endless_Faith_Card,Endless Faith Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bInt,30; bonus bVit,10; bonus bMaxHP,15000; },{},{}
 40050,Vengeful_Envy_Card,Vengeful Envy Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bAgi,30; bonus bLuk,5; bonus bVit,5; bonus bMaxHP,15000; },{},{}
-40051,Blood_Lust_Card,Blood Lust Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bAgi,30; bonus bLuk,5; bonus bVit,5; bonus bMaxHP,15000; },{},{}
+40051,Blood_Lust_Card,Blood Lust Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bLuk,30; bonus bInt,10; bonus bMaxHP,15000; },{},{}
 40052,Obsessed_Greed_Card,Obsessed Greed Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bVit,25; bonus bInt,15; bonus bMaxHP,15000; },{},{}
 40053,Rojak_Badge,Rojak Badge,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40054,Silver_Coin,Rojak Silver Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40055,Gold_Coin,Rojak Gold Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40056,White_Gold_Coin,Rojak Platinum Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40057,Mithril_Coin,Rojak Mithril Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
-40058,Rojak_Token,Rojak Token,3,0,,0,,,,,,,,,,,,,{},{},{}
-40059,Rojak_Seal,Rojak Seal,3,0,,0,,,,,,,,,,,,,{},{},{}
+40058,Creamhilt_Token,Creamhilt Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40059,Seal_of_Power,Seal of Power,3,0,,0,,,,,,,,,,,,,{},{},{}
 40060,Mutual_Wing,Mutual Wings,4,0,,,,10,,1,0xFFFFFFFF,63,2,1,,,1,1556,{ bonus bAllstats,15; },{},{}
+40061,Sbanhealt_Token,Sbanhealt Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40062,Lazrigees_Token,Lazrigees_Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40063,Squagul_Token,Squagul Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40064,Guindull_Token,Guindull Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40065,Seal_of_Wisdom,Seal of Wisdom,3,0,,0,,,,,,,,,,,,,{},{},{}
+40066,Seal_of_Spirit,Seal of Spirit,3,0,,0,,,,,,,,,,,,,{},{},{}
+40067,Seal_of_Hate,Seal_of_Hate,3,0,,0,,,,,,,,,,,,,{},{},{}
+40068,Seal_of_Death,Seal of Death,3,0,,0,,,,,,,,,,,,,{},{},{}
