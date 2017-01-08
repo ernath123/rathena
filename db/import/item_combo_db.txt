@@ -3,3 +3,4 @@
 40041:40044,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
 40041:40045,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
 40041:40046,{ bonus bMaxHPrate,25; bonus bSPrecovRate,15; bonus bMdef,10; }
+40060:40041,{ bonus bAllStats,3; }
