@@ -120,3 +120,5 @@
 40055,Gold_Coin,Rojak Gold Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40056,White_Gold_Coin,Rojak Platinum Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40057,Mithril_Coin,Rojak Mithril Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
+40058,Rojak_Token,Rojak Token,3,0,,0,,,,,,,,,,,,,{},{},{}
+40059,Rojak_Seal,Rojak Seal,3,0,,0,,,,,,,,,,,,,{},{},{}
