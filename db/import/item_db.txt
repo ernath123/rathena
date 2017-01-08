@@ -122,3 +122,4 @@
 40057,Mithril_Coin,Rojak Mithril Coin,3,,,0,,,,,0xFFFFFFFF,7,2,,,,,,{},{},{}
 40058,Rojak_Token,Rojak Token,3,0,,0,,,,,,,,,,,,,{},{},{}
 40059,Rojak_Seal,Rojak Seal,3,0,,0,,,,,,,,,,,,,{},{},{}
+40060,Mutual_Wing,Mutual Wings,4,0,,,,10,,1,0xFFFFFFFF,63,2,1,,,1,1556,{ bonus bAllstats,15; },{},{}

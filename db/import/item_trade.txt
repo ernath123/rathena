@@ -48,3 +48,4 @@
 40050,1,100	// Vengeful_Envy_Card
 40051,1,100	// Blood_Lust_Card
 40052,1,100	// Obsessed_Greed_Card
+40060,1,100	// Mutual_Wing
