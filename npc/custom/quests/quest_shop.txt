@@ -230,7 +230,7 @@ function	script	qshop	{
 // Dummy shop data -- copy as needed.
 //============================================================
 -	shop	qshop1	-1,909:-1
-//-	shop	qshop2	-1,909:-1
+-	shop	qshop2	-1,909:-1
 //-	shop	qshop3	-1,909:-1
 //-	shop	qshop4	-1,909:-1
 //-	shop	qshop5	-1,909:-1
