@@ -109,7 +109,7 @@
 40044,Grand_Gaiters,Grand Gaiters,4,71000,,500,,6,,1,0x00080808,7,2,16,,60,1,0,{ bonus bStr,5; bonus bVit,5; bonus bDex,5; bonus bLuk,5; },{},{}
 40045,Rally_Plete_Armor,Rally Plete Armor,4,80000,,4500,,10,,1,0x00004082,7,2,16,,40,1,0,{ bonus bStr,5; bonus bVit,5; bonus bLuk,5; },{},{}
 40046,Hero_Plate_Armor,Hero Plate Armor,4,102500,,5500,,11,,1,0x00004000,7,2,16,,60,1,0,{ bonus bStr,5; bonus bVit,5; bonus bInt,5; },{},{}
-40047,Hercule_Belt,Hercule Belt,4,20000,,1200,,2,,0,0xFFFFFFFF,7,2,136,,94,0,0,{ bonus bStr,40; bonus bMdef,10; bonus bMaxHP,15000; },{},{}
+40047,Hercule_Belt,Hercule Belt,4,20000,,8000,,2,,0,0xFFFFFFFF,7,2,136,,94,0,0,{ bonus bStr,40; bonus bMdef,10; bonus bMaxHP,15000; },{},{}
 40048,Master_Exile_Card,Master Exile Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bDex,30; bonus bLuk,10; bonus bMaxHP,15000; },{},{}
 40049,Endless_Faith_Card,Endless Faith Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bInt,30; bonus bVit,10; bonus bMaxHP,15000; },{},{}
 40050,Vengeful_Envy_Card,Vengeful Envy Card,6,0,,,,,,,0xFFFFFFFF,63,2,136,,,,,{ bonus bAgi,30; bonus bLuk,5; bonus bVit,5; bonus bMaxHP,15000; },{},{}
