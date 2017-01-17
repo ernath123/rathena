@@ -1988,7 +1988,7 @@
 4351,Kavac_Card,Kavach Icarus Card,6,20,,10,,,,,,,,4,,,,,{ if(getrefine()<=4) { bonus bFlee,20; bonus bFlee2,1; } else { bonus bFlee,10; } },{},{}
 4352,B_Ygnizem_Card,General Egnigem Cenia Card,6,20,,10,,,,,,,,64,,,,,{ bonus bMaxHPrate,10; bonus bMaxSPrate,10; bonus2 bHPRegenRate,50,10000; bonus2 bSPRegenRate,10,10000; },{},{}
 4353,Removal_Card,Remover Card,6,20,,10,,,,,,,,16,,,,,{ bonus bMaxHP,800-40*getrefine(); bonus bHPrecovRate,10; },{},{}
-4354,Gemini_Card,Gemini-S58 Card,6,20,,10,,,,,,,,769,,,,,{},{},{}
+4354,Gemini_Card,Gemini-S58 Card,6,20,,10,,,,,,,,769,,,,,{ bonus2 bResEff,Eff_Stone,10000; },{},{}
 4355,Gremlin_Card,Gremlin Card,6,20,,10,,,,,,,,136,,,,,{ bonus3 bAddMonsterDropItem,12043,RC_Brute,50; },{},{}
 4356,Beholder_Card,Beholder Card,6,20,,10,,,,,,,,136,,,,,{ skill "SA_CASTCANCEL",1; },{},{}
 4357,B_Seyren_Card,Lord Knight Card,6,20,,10,,,,,,,,769,,,,,{ skill "LK_BERSERK",1; bonus bMaxHPrate,-50; },{},{}
