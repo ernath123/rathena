@@ -1,6 +1,6 @@
 
 
-prontera,138,184,5	script	Coin Manager	757,{
+prontera,138,183,5	script	Coin Manager	757,{
 function int__;
 
 do{
@@ -64,9 +64,9 @@ OnInit:
 // server max zeny
 .max_zeny = 1000000000;
 // coin list + name + value
-setarray .coin_name$,"Rojak Badge","Rojak Silver","Rojak Gold","Rojak Platinum","Rojak Mithril";
-setarray .coin_id,40053,40054,40055,40056,40057;
-setarray .value,50000000,10000000,50000000,100000000,500000000;
+setarray .coin_name$,"Rojak Silver","Rojak Gold","Rojak Platinum","Rojak Mithril";
+setarray .coin_id,40054,40055,40056,40057;
+setarray .value,10000000,50000000,100000000,500000000;
 
 .coin_size = getarraysize( .coin_name$ );
 end;
