@@ -23,7 +23,7 @@ mes "^00FF00____________________________^000000";
 mes "Consist same item, but different currency. Please choose:";
 next;
 // Menu Selection
-select("Rojak Badge");
+select("Rojak Badge","Rojak Gold Coin");
 
 ClearData();
 ShopSettings( @menu );
@@ -43,12 +43,20 @@ end;
 function	ShopSettings	{
 	switch( getarg(0) ){
 		Case 1:
-			// Currency [ Rojak Gold ]
+			// Currency [ Rojak Badge ]
 			set @Currency$,"40053";
 			// Item ID Lists
 			setarray @ItemLists[0],40041,40042,40043,40044,40045,40046;
 			// Item Price
 			setarray @ItemCost[0],100,65,70,70,80,90;
+			break;
+		Case 2:
+			// Currency [ Rojak Gold Coins ]
+			set @Currency$,"40055";
+			// Item ID Lists
+			setarray @ItemLists[0],40053;
+			// Item Price
+			setarray @ItemCost[0],1;
 			break;
 		// Case 4,5,6.....etc...
 		default:
