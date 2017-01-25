@@ -1776,7 +1776,7 @@
 4139,Joker_Card,Joker Card,6,20,,10,,,,,,,,136,,,,,{ skill "TF_STEAL",1; },{},{}
 4140,Knight_Of_Abyss_Card,Abysmal Knight Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddClass,Class_Boss,25; },{},{}
 4141,Evil_Druid_Card,Evil Druid Card,6,20,,10,,,,,,,,16,,,,,{ bonus bDefEle,Ele_Undead; bonus bInt,1; bonus bDef,1; },{},{}
-4142,Doppelganger_Card,Doppelganger Card,6,20,,10,,,,,,,,2,,,,,{ bonus bAspd,100; },{},{}
+4142,Doppelganger_Card,Doppelganger Card,6,20,,10,,,,,,,,2,,,,,{},{},{}
 4143,Orc_Hero_Card,Orc Hero Card,6,20,,10,,,,,,,,769,,,,,{ bonus bVit,3; bonus2 bResEff,Eff_Stun,10000; },{},{}
 4144,Osiris_Card,Osiris Card,6,20,,10,,,,,,,,136,,,,,{ bonus bRestartFullRecover,0; },{},{}
 4145,Berzebub_Card,Berzebub Card,6,20,,10,,,,,,,,136,,,,,{},{},{}
@@ -2029,7 +2029,7 @@
 4392,Observation_Card,Dame of Sentinel Card,6,20,,10,,,,,,,,16,,,,,{ bonus bDex,readparam(bVit)/18; },{},{}
 4393,Shelter_Card,Mistress of Shelter Card,6,20,,10,,,,,,,,16,,,,,{ bonus bInt,readparam(bStr)/18; },{},{}
 4394,Solace_Card,Lady Solace Card,6,20,,10,,,,,,,,2,,,,,{ if(BaseJob==Job_Priest) bonus3 bAutoSpell,"CR_GRANDCROSS",5,20; },{},{}
-4395,Tha_Maero_Card,Maero of Thanatos Card,6,20,,10,,,,,,,,2,,,,,{ bonus bBaseAtk,5; bonus3 bAutoSpell,"AL_DECAGI",3,50; },{},{}
+4395,Tha_Maero_Card,Maero of Thanatos Card,6,20,,10,,,,,,,,2,,,,,{},{},{}
 4396,Tha_Odium_Card,Odium of Thanatos Card,6,20,,10,,,,,,,,64,,,,,{ bonus bAgi,getrefine()-5; },{},{}
 4397,Tha_Despero_Card,Despero of Thanatos Card,6,20,,10,,,,,,,,32,,,,,{ bonus bInt,getrefine()-6; },{},{}
 4398,Tha_Dolor_Card,Dolor of Thanatos Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bMagicAddRace,RC_Angel,10; },{},{}
