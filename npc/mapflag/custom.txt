@@ -36,3 +36,5 @@ lhz_dun03	mapflag	noteleport
 //prison
 sec_pri	mapflag	nocommand	4
 sec_pri	mapflag	noteleport
+sec_pri	mapflag	nowarp
+sec_pri	mapflag	nowarpto
