@@ -1607,7 +1607,7 @@
 2785,Orleans_Glove_M,Orlean's Gloves,4,20,,100,,0,,1,0xFFFFFFFE,2,2,136,,90,0,0,{ bonus bDex,2; bonus bMatkRate,3; },{},{}
 2786,Spiritual_Ring_M,Spiritual Ring,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bInt,2; bonus bDex,1; },{},{}
 2787,Waterdrop_Brooch,Waterdrop Brooch,4,20,,200,,0,,1,0xFFFFFFFE,2,2,136,,75,0,0,{ bonus2 bSubEle,Ele_Water,5; bonus bMaxHP,80; bonus bMdef,2; },{},{}
-2788,Bradium_Earing,Bradium Earring,4,20,,200,,0,,1,0xFFFFFFFE,2,2,136,,60,0,0,{ bonus bMatkRate,2; bonus bInt,1; bonus bDex,1; },{},{}
+2788,Bradium_Earing,Bradium Earring,4,20,,200,,0,,1,0xFFFFFFFE,2,2,136,,60,0,0,{},{},{}
 2789,Bradium_Ring,Bradium Ring,4,20,,200,,0,,1,0xFFFFFFFE,2,2,136,,60,0,0,{ bonus2 bAddClass,Class_All,2; bonus bStr,1; bonus bVit,1; },{},{}
 2790,Bradium_Brooch,Bradium Brooch,4,20,,200,,0,,1,0xFFFFFFFE,2,2,136,,60,0,0,{ bonus bFlee,4; bonus bAspdRate,2; bonus bAgi,1; },{},{}
 2791,Just_Got_Fish,Fresh Fish,4,20,,500,,0,,1,0xFFFFFFFF,7,2,136,,1,0,0,{ bonus bHit,3; },{},{}
@@ -5499,7 +5499,7 @@
 13411,BF_Sword2,Brave Gladiator Blade,5,20,,0,115,,1,0,0x000654E3,7,2,2,3,80,1,2,{ bonus bStr,1; bonus bDex,1; bonus2 bAddRace,RC_DemiHuman,75; bonus2 bAddRace,RC_Player,75; bonus bMatkRate,10; bonus bUnbreakableWeapon,0; },{},{}
 13412,Twin_Edge_B,Twin Edge of Naght Sieger,5,20,,1500,150,,1,3,0x000654E2,2,2,2,4,75,1,2,{ bonus bAtkEle,Ele_Water; skill "MG_FROSTDIVER",5; autobonus "{ bonus bIgnoreDefClass,Class_Normal; }",50,5000; },{},{}
 13413,Twin_Edge_R,Twin Edge of Naght Sieger,5,20,,1500,160,,1,3,0x000654E2,2,2,2,4,75,1,2,{ bonus bAtkEle,Ele_Fire; skill "WZ_METEOR",3; autobonus "{ bonus bIgnoreDefClass,Class_Normal; }",50,5000; },{},{}
-13414,Elemental_Sword,Elemental Sword,5,20,,1200,105,,1,3,0x000654E2,2,2,2,3,70,1,2,{ bonus bStr,2; bonus bInt,4; bonus bDex,1; bonus bMatkRate,5; bonus2 bAddEle,Ele_Neutral,10; bonus3 bAutoSpell,"MG_COLDBOLT",3,50; bonus4 bAutoSpellOnSkill,"MG_COLDBOLT","MG_FIREBOLT",3,1000; bonus4 bAutoSpellOnSkill,"MG_FIREBOLT","MG_LIGHTNINGBOLT",3,1000; bonus4 bAutoSpellOnSkill,"MG_LIGHTNINGBOLT","WZ_EARTHSPIKE",3,1000; },{},{}
+13414,Elemental_Sword,Elemental Sword,5,20,,1200,105,,1,3,0x000654E2,2,2,2,3,70,1,2,{},{},{}
 13415,N_Falchion,Novice Falchion,5,0,,0,59,,1,3,0x000654E3,7,2,2,1,2,0,2,{},{},{}
 13416,Krieger_Onehand_Sword1,Glorious Flamberge,5,20,,0,130,,1,0,0x000654E3,7,2,2,4,80,1,2,{ bonus2 bAddRace,RC_DemiHuman,75; bonus2 bAddRace,RC_Player,75; bonus2 bIgnoreDefRaceRate,RC_DemiHuman,20; bonus2 bIgnoreDefRaceRate,RC_Player,20; bonus bUnbreakableWeapon,0; if(getrefine()>5) { bonus2 bAddRace,RC_DemiHuman,(getrefine()-4)*(getrefine()-4); bonus2 bAddRace,RC_Player,(getrefine()-4)*(getrefine()-4); bonus2 bIgnoreDefRaceRate,RC_DemiHuman,5; bonus2 bIgnoreDefRaceRate,RC_Player,5; } if(getrefine()>6) bonus bAspdRate,5; if(getrefine()>8) { bonus bAspdRate,5; bonus4 bAutoSpellOnSkill,"SM_BASH","NPC_CRITICALWOUND",2,200; } },{},{}
 13417,Krieger_Onehand_Sword2,Glorious Rapier,5,20,,0,130,,1,0,0x000654E3,7,2,2,4,80,1,2,{ bonus bInt,getrefine()-5; bonus bMatkRate,10; bonus bUnbreakableWeapon,0; if(getrefine()>5) bonus bUseSPrate,-10; if(getrefine()>8) bonus bInt,5; },{},{}
