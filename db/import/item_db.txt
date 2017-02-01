@@ -131,3 +131,22 @@
 40066,Seal_of_Spirit,Seal of Spirit,3,0,,0,,,,,,,,,,,,,{},{},{}
 40067,Seal_of_Hate,Seal_of_Hate,3,0,,0,,,,,,,,,,,,,{},{},{}
 40068,Seal_of_Death,Seal of Death,3,0,,0,,,,,,,,,,,,,{},{},{}
+40069,Dark_Difier,Dark Difier,5,,,4000,220,,3,4,0x00004082,7,2,34,4,48,1,5,{ bonus bLuk,5; bonus bStr,15; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40070,Oblivian_Mace,Oblivian Mace,5,,,50,100,,1,4,0xFFFFFFFF,7,2,2,4,1,1,8,{ bonus bAllstats,7; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40071,Phoenix_Wing,Phoenix Wing,5,,,1000,200,,1,4,0x000654E2,7,2,2,4,40,1,2,{ bonus bAllStats,5; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40072,Katar_of_Chaos,Katar of Chaos,5,,,50,165,,1,4,0x00001000,7,2,34,4,27,1,16,{ bonus bAgi,15; bonus bStr,5; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40073,Frenzic,Frenzic,5,,,50,100,,1,4,0x00008100,7,2,2,4,36,1,12,{ bonus bAspdRate,30; bonus bInt,5; bonus bLuk,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40074,Holy_Flail,Holy Flail,5,,,50,180,,1,4,0x00010100,7,2,2,4,40,1,15,{ bonus bInt,15; bonus bLuk,10; bonus bVit,5; if(getrefine()>=10) bonus bMatkRate,20; },{},{}
+40075,Soul_Seeker,Soul Seeker,5,,,50,145,,5,4,0x00080808,7,2,34,4,77,1,11,{ bonus bLuk,5; bonus bDex,15; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40076,Staff_Of_Ages,Staff Of Ages,5,,,50,180,,1,4,0x00010204,7,2,34,4,90,1,10,{ bonus bInt,15; bonus bDex,10; if(getrefine()<10) bonus bMatkRate,20; if(getrefine()>=10) bonus bMatkRate,40; },{},{}
+40077,Reaper,Reaper,5,,,2500,250,,1,4,0x00040420,7,2,34,4,44,1,7,{ bonus bAspdRate,40; bonus bStr,30; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40078,Retribution,Retribution,5,,,50,180,,1,4,0x00004082,7,2,34,4,40,1,3,{ bonus bCritical,40; bonus bAspdRate,30; bonus bStr,20; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40079,Wind_Weaver,Wind Weaver,5,,,50,140,,1,4,0x00080000,7,1,2,4,27,1,13,{ bonus bInt,5; bonus bDex,15; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40080,Raging_Whip,Raging Whip,5,,,50,120,,2,4,0x00080000,7,0,2,4,30,1,14,{ bonus bLuk,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40081,Zaliska,Zaliska,5,,,50,145,,7,4,0x41000000,7,2,34,4,30,1,17,{ bonus bInt,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40082,Vickers,Vickers,5,,,50,145,,9,4,0x41000000,7,2,34,4,30,1,19,{ bonus bAgi,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40083,Mossberg,Mossberg,5,,,50,145,,9,4,0x41000000,7,2,34,4,30,1,20,{ bonus bInt,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40084,Desert_Tan,Desert Tan,5,,,50,145,,9,4,0x41000000,7,2,34,4,30,1,21,{ bonus bInt,10; bonus bDex,10; bonus bAgi,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40085,Caracal,Caracal,5,,,50,145,,9,4,0x41000000,7,2,34,4,30,1,18,{ bonus bInt,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40086,Shutter_Shock,Shutter Shock,5,,,50,100,,1,4,0x02000000,7,2,34,4,30,1,22,{ bonus bInt,10; bonus bDex,10; bonus bVit,10; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
+40087,Secret_Diary,Secret Diary,5,,,50,180,,1,4,0x00200000,7,2,2,4,30,1,15,{ bonus bStr,15; bonus bDex,10; bonus bLuk,5; if (getrefine()>=10) bonus2 bAddRace,RC_DemiHuman,5; if (getrefine()>=10) bonus2 bAddRace,RC_Player,5; },{},{}
